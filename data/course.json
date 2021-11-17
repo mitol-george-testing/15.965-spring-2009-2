@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Marketing"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "121ecb58-6e1c-b9b6-323e-3b0c67f7ca40"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Technology Strategy for System Design and Management",
+  "course_description": "This course provides you with a framework to understand the structure and dynamics of high-tech businesses, together with an approach for their effective strategic management. It is focused on domains in which systems are important, because either or both products are parts of larger and more complex systems, or they are comprised of systems. The domains covered include computing, communications (in particular the mobile and IP domains), consumer electronics, industrial networking, automotive, aerospace and medical devices. The course will be of particular interest to those interested in managing a business in which technology will likely play a major role, and also to those interested in investing in or providing counsel to these businesses.\n\nThe emphasis throughout is on the development and application of ways of thinking or mental models that bring clarity to the complex co-evolution of technological innovation, the demand opportunity, systems architecture, business ecosystems, and decision-making and execution within the business.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.965",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
